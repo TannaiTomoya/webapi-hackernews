@@ -1,0 +1,122 @@
+[
+  {
+    "title": "A decentralized peer-to-peer messaging application that operates over Bluetooth",
+    "link": "https://bitchat.free/"
+  },
+  {
+    "title": "MTOTP: Wouldn't it be nice if you were the 2FA device?",
+    "link": "https://github.com/VBranimir/mTOTP/tree/develop"
+  },
+  {
+    "title": "Gaussian Splatting – A$AP Rocky \"Helicopter\" music video",
+    "link": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting"
+  },
+  {
+    "title": "Provide agents with automated feedback",
+    "link": "https://banay.me/dont-waste-your-backpressure/"
+  },
+  {
+    "title": "Dead Internet Theory",
+    "link": "https://kudmitry.com/articles/dead-internet-theory/"
+  },
+  {
+    "title": "Flux 2 Klein pure C inference",
+    "link": "https://github.com/antirez/flux2.c"
+  },
+  {
+    "title": "Self Sanitizing Door Handle",
+    "link": "https://www.jamesdysonaward.org/en-US/2019/project/self-sanitizing-door-handle/"
+  },
+  {
+    "title": "Show HN: I quit coding years ago. AI brought me back",
+    "link": "https://calquio.com/finance/compound-interest"
+  },
+  {
+    "title": "Fil-Qt: A Qt Base build with Fil-C experience",
+    "link": "https://git.qt.io/cradam/fil-qt"
+  },
+  {
+    "title": "A Social Filesystem",
+    "link": "https://overreacted.io/a-social-filesystem/"
+  },
+  {
+    "title": "AVX-512: First Impressions on Performance and Programmability",
+    "link": "https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/"
+  },
+  {
+    "title": "Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go",
+    "link": "https://github.com/elC0mpa/aws-doctor"
+  },
+  {
+    "title": "The Code-Only Agent",
+    "link": "https://rijnard.com/blog/the-code-only-agent"
+  },
+  {
+    "title": "Gas Town Decoded",
+    "link": "https://www.alilleybrinker.com/mini/gas-town-decoded/"
+  },
+  {
+    "title": "Gladys West's vital contributions to GPS technology",
+    "link": "https://en.wikipedia.org/wiki/Gladys_West"
+  },
+  {
+    "title": "Simulating the Ladybug Clock Puzzle",
+    "link": "https://austinhenley.com/blog/ladybugclock.html"
+  },
+  {
+    "title": "Show HN: Pdfwithlove – PDF tools that run 100% locally (no uploads, no back end)",
+    "link": "https://pdfwithlove.netlify.app"
+  },
+  {
+    "title": "Astrophotography visibility plotting and planning tool",
+    "link": "https://airmass.org/"
+  },
+  {
+    "title": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
+    "link": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html"
+  },
+  {
+    "title": "Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss",
+    "link": "https://getdock.io/"
+  },
+  {
+    "title": "Show HN: Beats, a web-based drum machine",
+    "link": "https://beats.lasagna.pizza"
+  },
+  {
+    "title": "Using proxies to hide secrets from Claude Code",
+    "link": "https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/"
+  },
+  {
+    "title": "High-speed train collision in Spain kills at least 39",
+    "link": "https://www.bbc.com/news/articles/cedw6ylpynyo"
+  },
+  {
+    "title": "Experiments with Kafka's head-of-line blocking (2023)",
+    "link": "https://www.artur-rodrigues.com/tech/2023/03/21/kafka-head-of-line-blocking.html"
+  },
+  {
+    "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
+    "link": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/"
+  },
+  {
+    "title": "Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used",
+    "link": "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/"
+  },
+  {
+    "title": "Sins of the Children",
+    "link": "https://asteriskmag.com/issues/07/sins-of-the-children"
+  },
+  {
+    "title": "Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup",
+    "link": "https://cua.ai/docs/lume/guide/getting-started/introduction"
+  },
+  {
+    "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+    "link": "https://alexharri.com/blog/ascii-rendering"
+  },
+  {
+    "title": "Poking holes into bytecode with peephole optimisations",
+    "link": "https://xnacly.me/posts/2026/purple-garden-first-optimisations/"
+  }
+]
